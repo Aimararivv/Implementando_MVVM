@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\Dise\u00F1o de APPS\\MVVM_implementacion_XAGFR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA8CB4-44C0-42FA-B8F6-5C1DA8E86E8E}|MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR.csproj|c:\\users\\usuario\\downloads\\dise\u00F1o de apps\\mvvm_implementacion_xagfr\\mvvm_implementacion_xagfr\\vistamodelo\\vmpatron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DA8CB4-44C0-42FA-B8F6-5C1DA8E86E8E}|MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR.csproj|solutionrelative:mvvm_implementacion_xagfr\\vistamodelo\\vmpatron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA8CB4-44C0-42FA-B8F6-5C1DA8E86E8E}|MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR.csproj|c:\\users\\usuario\\downloads\\dise\u00F1o de apps\\mvvm_implementacion_xagfr\\mvvm_implementacion_xagfr\\vistamodelo\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DA8CB4-44C0-42FA-B8F6-5C1DA8E86E8E}|MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR.csproj|solutionrelative:mvvm_implementacion_xagfr\\vistamodelo\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA8CB4-44C0-42FA-B8F6-5C1DA8E86E8E}|MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR.csproj|c:\\users\\usuario\\downloads\\dise\u00F1o de apps\\mvvm_implementacion_xagfr\\mvvm_implementacion_xagfr\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DA8CB4-44C0-42FA-B8F6-5C1DA8E86E8E}|MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR.csproj|solutionrelative:mvvm_implementacion_xagfr\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA8CB4-44C0-42FA-B8F6-5C1DA8E86E8E}|MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR.csproj|c:\\users\\usuario\\downloads\\dise\u00F1o de apps\\mvvm_implementacion_xagfr\\mvvm_implementacion_xagfr\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{E8DA8CB4-44C0-42FA-B8F6-5C1DA8E86E8E}|MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR.csproj|solutionrelative:mvvm_implementacion_xagfr\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VMpatron.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Dise\u00F1o de APPS\\MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR\\VistaModelo\\VMpatron.cs",
+              "RelativeDocumentMoniker": "MVVM_implementacion_XAGFR\\VistaModelo\\VMpatron.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Dise\u00F1o de APPS\\MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR\\VistaModelo\\VMpatron.cs",
+              "RelativeToolTip": "MVVM_implementacion_XAGFR\\VistaModelo\\VMpatron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:03:31.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Dise\u00F1o de APPS\\MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR\\VistaModelo\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM_implementacion_XAGFR\\VistaModelo\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Dise\u00F1o de APPS\\MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR\\VistaModelo\\BaseViewModel.cs",
+              "RelativeToolTip": "MVVM_implementacion_XAGFR\\VistaModelo\\BaseViewModel.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:58:44.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Dise\u00F1o de APPS\\MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM_implementacion_XAGFR\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Dise\u00F1o de APPS\\MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR\\MainPage.xaml.cs",
+              "RelativeToolTip": "MVVM_implementacion_XAGFR\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:56:06.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Dise\u00F1o de APPS\\MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MVVM_implementacion_XAGFR\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Dise\u00F1o de APPS\\MVVM_implementacion_XAGFR\\MVVM_implementacion_XAGFR\\MainPage.xaml",
+              "RelativeToolTip": "MVVM_implementacion_XAGFR\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T04:54:57.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
